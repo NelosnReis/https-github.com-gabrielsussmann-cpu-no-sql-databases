@@ -4,12 +4,12 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome | Função/Foco |
-| :--- | :--- |
-| **Gabriel Morais Simonini Sussmann** | |
-| **Bruno Boggio** | |
-| **Nelson Francisco Valerio dos Reis** | |
-| **Denis Varela** | |
+| Nome | 
+| :--- | 
+| **Gabriel Morais Simonini Sussmann** |
+| **Bruno Boggio** |
+| **Nelson Francisco Valerio dos Reis** |
+| **Denis Varela** |
 
 -----
 
@@ -103,3 +103,4 @@ Acesse o *shell* do MongoDB dentro do container e execute a *query* analítica:
 docker exec -it mongodb_case mongosh
 
 # Dentro do mongosh, execute o código de agregação do arquivo command_mongo.sh
+
