@@ -1,7 +1,11 @@
 🚀 Caso de Estudo NoSQL - Amazonas E-commerce
 
-## Integrantes do Grupo
-- Gabriel Morais Simonini Sussmann, Bruno Boggio, Nelson Reis e Denis Varela
+👥 Integrantes do Grupo
+Nome	Função/Foco
+Gabriel Morais Simonini Sussmann	
+Bruno Boggio	
+Nelson Francisco Valerio dos Reis	
+Denis Varela
 
 ## Decisões de Arquitetura
 
@@ -63,4 +67,5 @@ docker exec -it mongodb_case mongoimport --db test --collection products --file 
 
 
 - Acesse o mongosh(docker exec -it mongodb_case mongosh) e excute a query do arquivo command_mongo.sh
+
 
