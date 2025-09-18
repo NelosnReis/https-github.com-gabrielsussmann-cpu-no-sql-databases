@@ -1,5 +1,5 @@
 # Caso de Estudo NoSQL - Empresa Amazonas E-commerce
-
+#teste
 ## Integrantes do Grupo
 - Gabriel Morais Simonini Sussmann, Bruno Boggio, Nelson Reis e Denis Varela
 
@@ -60,5 +60,6 @@ docker cp products.json mongodb_case:/products.json
 docker exec -it mongodb_case mongoimport --db test --collection customers --file /customers.json --type json --legacy
 docker exec -it mongodb_case mongoimport --db test --collection events --file /events.json --type json --legacy
 docker exec -it mongodb_case mongoimport --db test --collection products --file /products.json --type json --legacy
+
 
 - Acesse o mongosh(docker exec -it mongodb_case mongosh) e excute a query do arquivo command_mongo.sh
