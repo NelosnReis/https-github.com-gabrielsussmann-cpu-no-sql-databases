@@ -8,7 +8,7 @@
 | :--- | :--- |
 | **Gabriel Morais Simonini Sussmann** | |
 | **Bruno Boggio** | |
-| **Nelson Reis** | |
+| **Nelson Francisco Valerio dos Reis** | |
 | **Denis Varela** | |
 
 -----
@@ -109,4 +109,5 @@ docker exec -it mongodb_case mongosh
 -----
 
 O que você achou desta nova estrutura? Há mais alguma seção que você gostaria de incluir (ex: Tecnologias Utilizadas)?
+
 
