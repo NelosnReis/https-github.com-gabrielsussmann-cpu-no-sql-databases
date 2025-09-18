@@ -1,9 +1,5 @@
 # 🚀 Caso de Estudo NoSQL - Amazonas E-commerce
 
-\<p align="center"\>
-\<i\>Modelagem de Dados NoSQL para uma plataforma de comércio eletrônico.\</i\>
-\</p\>
-
 -----
 
 ## 👥 Integrantes do Grupo
@@ -113,3 +109,4 @@ docker exec -it mongodb_case mongosh
 -----
 
 O que você achou desta nova estrutura? Há mais alguma seção que você gostaria de incluir (ex: Tecnologias Utilizadas)?
+
