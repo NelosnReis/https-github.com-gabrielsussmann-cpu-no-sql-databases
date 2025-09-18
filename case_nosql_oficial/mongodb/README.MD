@@ -103,11 +103,3 @@ Acesse o *shell* do MongoDB dentro do container e execute a *query* analítica:
 docker exec -it mongodb_case mongosh
 
 # Dentro do mongosh, execute o código de agregação do arquivo command_mongo.sh
-# ...
-```
-
------
-
-O que você achou desta nova estrutura? Há mais alguma seção que você gostaria de incluir (ex: Tecnologias Utilizadas)?
-
-
